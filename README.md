@@ -21,7 +21,7 @@ Este servidor:
 -   Envía un mensaje
 -   Cierra
 
-[servidor.c]
+[servidor.c](https://github.com/habasto/etn_911_lab_1/blob/main/servidor.c)
 
 # ⚙️ 2. Compilar
 
