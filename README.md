@@ -33,19 +33,15 @@ gcc servidor.c -o servidor
 
 # ▶️ 3. Ejecutar
 
-<div>
-
-[]{#anchor-1}./servidor
-
-</div>
+```console
+./servidor
+```
 
 Verás:
 
-<div>
-
-[]{#anchor-2}Servidor escuchando en puerto 8080\...
-
-</div>
+```console
+Servidor escuchando en puerto 8080\...
+```
 
 # 🔌 4. Probar el servidor
 
