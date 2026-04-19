@@ -209,7 +209,7 @@ close(server_fd);
 
 Libera recursos del sistema.
 
-# 7. Trábajo práctico:
+# 7. Trabajo práctico:
 
 1.  Cambiar el mensaje
 2.  Explica las estructuras del ejemplo
