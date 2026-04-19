@@ -67,7 +67,7 @@ Hola cliente, soy el servidor
 
 ## 1. *socket()*
 
-```
+``` c
 socket(AF_INET, SOCK_STREAM, 0);
 ```
 
