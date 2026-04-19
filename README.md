@@ -23,15 +23,13 @@ Este servidor:
 
 [servidor.c](https://github.com/habasto/etn_911_lab_1/blob/main/servidor.c)
 
-# ⚙️ 2. Compilar
+# 2. Compilar
 
 En Linux:
 
-<div>
-
-[]{#anchor}gcc servidor.c -o servidor
-
-</div>
+```console
+gcc servidor.c -o servidor
+```
 
 # ▶️ 3. Ejecutar
 
