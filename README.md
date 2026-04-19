@@ -128,7 +128,7 @@ Pone el socket en modo servidor.
 client_socket = accept(server_fd, NULL, NULL);
 ```
 
-👉 Aquí pasa algo clave:
+Aquí pasa algo clave:
 
 -   Se bloquea esperando cliente
 
