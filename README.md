@@ -47,27 +47,21 @@ Servidor escuchando en puerto 8080\...
 
 Desde otra terminal:
 
-<div>
-
-[]{#anchor-3}telnet localhost 8080
-
-</div>
+```console
+telnet localhost 8080
+```
 
 o:
 
-<div>
-
-[]{#anchor-4}nc localhost 8080
-
-</div>
+```console
+nc localhost 8080
+```
 
 Deberías recibir:
 
-<div>
-
-[]{#anchor-5}Hola cliente, soy el servidor
-
-</div>
+```console
+Hola cliente, soy el servidor
+```
 
 # 🔬 5. Explicación paso a paso
 
