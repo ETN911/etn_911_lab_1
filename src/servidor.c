@@ -9,7 +9,7 @@
 int main() {
     int server_fd, client_socket;
     struct sockaddr_in server_addr;
-    char *message = "Hola cliente, soy el servidor\n";
+    char *message = "Hola cliente, soy el Servidor\n";
 
     // 1. Crear socket
     server_fd = socket(AF_INET, SOCK_STREAM, 0);
