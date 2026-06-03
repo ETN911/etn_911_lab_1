@@ -2,7 +2,7 @@
 
 1\. Computador laptop con alguna de estas opciones:
 
-1\. SO Linux Ubuntu
+1\. SO Linux Ubuntu.
 
 2\. Windows con WSL instalado
 
